@@ -1,7 +1,7 @@
 # Contacts application
 
 Contacts application is a JavaFX based program for dealing with people's contact information
-(https://cdn.discordapp.com/attachments/630489336986599439/830838091848744960/unknown.png/)
+[pic](https://cdn.discordapp.com/attachments/630489336986599439/830838091848744960/unknown.png/)
 
 ## Installation
 
